@@ -53,3 +53,5 @@
 Check the script for any command-line options or flags that might allow you to customize the download process (e.g., quality, format).
 ## License
 This project is licensed under the MIT License, allowing users to use, modify, and distribute the software freely.
+## Disclaimer 
+This script is intended for educational purposes only. The use of this tool to download videos or audio from YouTube must comply with your country's copyright laws and YouTube's Terms of Service.
